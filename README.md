@@ -11,7 +11,7 @@
 </p>
 <p>
   <a href="https://www.codewars.com/users/twfan/">
-    <img src="https://www.codewars.com/users/twfan/badges/small" alt="Code Wars" />
+    <img src="https://www.codewars.com/users/twfan/badges/large" alt="Code Wars" />
   </a>
 </p>
 
